@@ -1,1 +1,1 @@
-# kbr-prova-back-end
+# sistema restrito para cadastro de produtos
